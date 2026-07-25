@@ -181,7 +181,7 @@ Implemented MCQ-based examination functionality with login authentication, profi
 
 ##  Certifications
 
-**NPTEL** ([Verify Certificates](https://archive.nptel.ac.in/noc/B2C/candidate_login/main.php))
+**NPTEL** 
 
 ![NPTEL](https://img.shields.io/badge/NPTEL-English%20Language%20for%20Competitive%20Exams-6D28D9?style=flat-square&logo=googlescholar&logoColor=white)
 &nbsp;`IIT Madras` · `Elite` · `82%` · Jan–Apr 2025
