@@ -51,8 +51,6 @@ open_to:
 
 ## ⚙️ Tech Stack
 
-<div align="center">
-
 **Languages**
 <br/>
 ![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python) ![C](https://skillicons.dev/icons?i=c) ![SQL](https://img.shields.io/badge/SQL-4C1D95?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -72,8 +70,6 @@ open_to:
 **Data & ML Libraries**
 <br/>
 ![Pandas](https://img.shields.io/badge/Pandas-4C1D95?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-6D28D9?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-7C3AED?style=for-the-badge&logo=plotly&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-5B21B6?style=for-the-badge&logo=python&logoColor=white) ![Statsmodels](https://img.shields.io/badge/Statsmodels-4338CA?style=for-the-badge&logo=python&logoColor=white)
-
-</div>
 
 <br/>
 
@@ -108,7 +104,7 @@ AI-driven personal finance management platform simulating the RBI Account Aggreg
 | **Performance** | O(1) deterministic hashing to eliminate duplicate transactions during sync |
 | **Security** | Symmetric encryption + 24/7 automated CI/CD security audits & email alerts |
 | **Impact** | Real-time anomaly detection engine flags irregular spends & potential fraud |
-| **Repository** | [FinGuru AI](https://github.com/himanshuwalde/finguru-webapp) |
+| **Repository** | [github.com/himanshuwalde](https://github.com/himanshuwalde) *(link to be updated)* |
 
 Built a real-time statistical anomaly detection engine using localized Z-scores and temporal bounding, integrated multi-modal LLM OCR to parse unstructured bank statements into a standardized schema, and deployed serverless pipelines for continuous data integrity.
 
@@ -127,7 +123,7 @@ Console-based online examination system built with core Java concepts.
 | **Performance** | Timer-based auto-submission for MCQ assessments |
 | **Security** | User login authentication & profile management |
 | **Impact** | Automated score calculation logic for evaluating user performance |
-| **Repository** | [Online Examination System](https://github.com/himanshuwalde/Online-Examination-System) |
+| **Repository** | [github.com/himanshuwalde](https://github.com/himanshuwalde) *(link to be updated)* |
 
 Implemented MCQ-based examination functionality with login authentication, profile management, and automatic score evaluation using core OOP principles.
 
@@ -250,7 +246,7 @@ Implemented MCQ-based examination functionality with login authentication, profi
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/himanshuwalde/himanshuwalde/output/github-contribution-grid-snake.svg" width="95%" />
+<img src="https://raw.githubusercontent.com/himanshuwalde/himanshuwalde/output/github-contribution-grid-snake-dark.svg" width="95%" />
 
 </div>
 
