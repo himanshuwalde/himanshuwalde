@@ -29,7 +29,7 @@
 
 <br/>
 
-## 🔮 About Me
+##  About Me
 
 ```yaml
 name: "Himanshu Walde"
@@ -49,7 +49,7 @@ open_to:
 
 <br/>
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 **Languages**
 <br/>
@@ -73,7 +73,7 @@ open_to:
 
 <br/>
 
-## 🧠 AI / ML Expertise
+##  AI / ML Expertise
 
 <div align="center">
 
@@ -89,10 +89,10 @@ open_to:
 
 <br/>
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <details open>
-<summary><b>💰 FinGuru AI</b> — Jan 2026 – May 2026</summary>
+<summary><b> FinGuru AI</b> — Jan 2026 – May 2026</summary>
 <br/>
 
 AI-driven personal finance management platform simulating the RBI Account Aggregator framework to securely process and analyze large-scale transaction data.
@@ -111,7 +111,7 @@ Built a real-time statistical anomaly detection engine using localized Z-scores 
 </details>
 
 <details>
-<summary><b>📝 Online Examination System</b> — June 2025 – July 2025</summary>
+<summary><b> Online Examination System</b> — June 2025 – July 2025</summary>
 <br/>
 
 Console-based online examination system built with core Java concepts.
@@ -131,7 +131,7 @@ Implemented MCQ-based examination functionality with login authentication, profi
 
 <br/>
 
-## 💼 Experience
+##  Experience
 
 <details open>
 <summary><b>Java Development Intern</b> — Oasis Infobyte, Nagpur, Maharashtra</summary>
@@ -165,7 +165,7 @@ Implemented MCQ-based examination functionality with login authentication, profi
 
 <br/>
 
-## 🏆 Achievements
+##  Achievements
 
 <div align="center">
 
@@ -179,7 +179,7 @@ Implemented MCQ-based examination functionality with login authentication, profi
 
 <br/>
 
-## 📜 Certifications
+##  Certifications
 
 **NPTEL** ([Verify Certificates](https://archive.nptel.ac.in/noc/B2C/candidate_login/main.php))
 
@@ -194,7 +194,7 @@ Implemented MCQ-based examination functionality with login authentication, profi
 
 <br/>
 
-## 💻 Coding Profiles
+##  Coding Profiles
 
 <div align="center">
 
@@ -209,7 +209,7 @@ Implemented MCQ-based examination functionality with login authentication, profi
 
 <br/>
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
 
@@ -222,7 +222,7 @@ Implemented MCQ-based examination functionality with login authentication, profi
 
 <br/>
 
-## 🏅 GitHub Trophies
+##  GitHub Trophies
 
 <div align="center">
 
@@ -232,7 +232,7 @@ Implemented MCQ-based examination functionality with login authentication, profi
 
 <br/>
 
-## 📈 Contribution Activity
+##  Contribution Activity
 
 <div align="center">
 
@@ -248,7 +248,7 @@ Implemented MCQ-based examination functionality with login authentication, profi
 
 <br/>
 
-## 🎯 Current Focus
+##  Current Focus
 
 ```yaml
 learning:
@@ -265,7 +265,7 @@ open_to:
 
 <br/>
 
-## 📬 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
