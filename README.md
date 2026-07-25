@@ -232,6 +232,8 @@ Implemented MCQ-based examination functionality with login authentication, profi
 
 <br/>
 
+## 📈 Contribution Activity
+
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshuwalde&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A78BFA&line=8B5CF6&point=ffffff" width="95%" />
@@ -239,8 +241,6 @@ Implemented MCQ-based examination functionality with login authentication, profi
 </div>
 
 <br/>
-
-## 🐍 Contribution Snake
 
 <div align="center">
 
