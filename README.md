@@ -104,7 +104,7 @@ AI-driven personal finance management platform simulating the RBI Account Aggreg
 | **Performance** | O(1) deterministic hashing to eliminate duplicate transactions during sync |
 | **Security** | Symmetric encryption + 24/7 automated CI/CD security audits & email alerts |
 | **Impact** | Real-time anomaly detection engine flags irregular spends & potential fraud |
-| **Repository** | [github.com/himanshuwalde](https://github.com/himanshuwalde) *(link to be updated)* |
+| **Repository** | [FinGuru AI](https://github.com/himanshuwalde/finguru-webapp) |
 
 Built a real-time statistical anomaly detection engine using localized Z-scores and temporal bounding, integrated multi-modal LLM OCR to parse unstructured bank statements into a standardized schema, and deployed serverless pipelines for continuous data integrity.
 
