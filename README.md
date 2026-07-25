@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Himanshu%20Walde&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&height=50&lines=Computer+Science+%26+Engineering+Student;AI%2FML+Minor+%7C+Full+Stack+Developer;Building+FinGuru+AI+%E2%80%94+RBI+Account+Aggregator+Simulation;Turning+Data+Into+Decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&height=50&lines=Computer+Science+%26+Engineering+Student;AI%2FML+Minor+%7C+Full+Stack+Developer;Turning+Data+Into+Decisions" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -29,7 +29,7 @@
 
 <br/>
 
-## 🔮 About Me
+##  About Me
 
 ```yaml
 name: "Himanshu Walde"
@@ -49,7 +49,7 @@ open_to:
 
 <br/>
 
-## ⚙️ Skills & Technologies
+##  Skills & Technologies
 
 ![Java](https://img.shields.io/badge/-JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/-PYTHON-306998?style=for-the-badge&logo=python&logoColor=white)
@@ -80,7 +80,7 @@ open_to:
 
 <br/>
 
-## 🧠 AI / ML Expertise
+##  AI / ML Expertise
 
 <div align="center">
 
@@ -96,10 +96,10 @@ open_to:
 
 <br/>
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <details open>
-<summary><b>💰 FinGuru AI</b> — Jan 2026 – May 2026</summary>
+<summary><b> FinGuru AI</b> — Jan 2026 – May 2026</summary>
 <br/>
 
 AI-driven personal finance management platform simulating the RBI Account Aggregator framework to securely process and analyze large-scale transaction data.
@@ -111,14 +111,14 @@ AI-driven personal finance management platform simulating the RBI Account Aggreg
 | **Performance** | O(1) deterministic hashing to eliminate duplicate transactions during sync |
 | **Security** | Symmetric encryption + 24/7 automated CI/CD security audits & email alerts |
 | **Impact** | Real-time anomaly detection engine flags irregular spends & potential fraud |
-| **Repository** | [github.com/himanshuwalde](https://github.com/himanshuwalde) *(link to be updated)* |
+| **Repository** | [FinGuru AI](https://github.com/himanshuwalde/finguru-webapp) |
 
 Built a real-time statistical anomaly detection engine using localized Z-scores and temporal bounding, integrated multi-modal LLM OCR to parse unstructured bank statements into a standardized schema, and deployed serverless pipelines for continuous data integrity.
 
 </details>
 
 <details>
-<summary><b>📝 Online Examination System</b> — June 2025 – July 2025</summary>
+<summary><b> Online Examination System</b> — June 2025 – July 2025</summary>
 <br/>
 
 Console-based online examination system built with core Java concepts.
@@ -130,7 +130,7 @@ Console-based online examination system built with core Java concepts.
 | **Performance** | Timer-based auto-submission for MCQ assessments |
 | **Security** | User login authentication & profile management |
 | **Impact** | Automated score calculation logic for evaluating user performance |
-| **Repository** | [github.com/himanshuwalde](https://github.com/himanshuwalde) *(link to be updated)* |
+| **Repository** | [Online Examination System](https://github.com/himanshuwalde/Online-Examination-System) |
 
 Implemented MCQ-based examination functionality with login authentication, profile management, and automatic score evaluation using core OOP principles.
 
@@ -138,7 +138,7 @@ Implemented MCQ-based examination functionality with login authentication, profi
 
 <br/>
 
-## 💼 Experience
+##  Experience
 
 <details open>
 <summary><b>Java Development Intern</b> — Oasis Infobyte, Nagpur, Maharashtra</summary>
@@ -172,7 +172,7 @@ Implemented MCQ-based examination functionality with login authentication, profi
 
 <br/>
 
-## 🏆 Achievements
+##  Achievements
 
 <div align="center">
 
@@ -186,9 +186,9 @@ Implemented MCQ-based examination functionality with login authentication, profi
 
 <br/>
 
-## 📜 Certifications
+##  Certifications
 
-**NPTEL** ([Verify Certificates](https://archive.nptel.ac.in/noc/B2C/candidate_login/main.php))
+**NPTEL** 
 
 ![NPTEL](https://img.shields.io/badge/NPTEL-English%20Language%20for%20Competitive%20Exams-6D28D9?style=flat-square&logo=googlescholar&logoColor=white)
 &nbsp;`IIT Madras` · `Elite` · `82%` · Jan–Apr 2025
@@ -201,7 +201,7 @@ Implemented MCQ-based examination functionality with login authentication, profi
 
 <br/>
 
-## 💻 Coding Profiles
+##  Coding Profiles
 
 <div align="center">
 
@@ -216,7 +216,7 @@ Implemented MCQ-based examination functionality with login authentication, profi
 
 <br/>
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
 
@@ -229,7 +229,7 @@ Implemented MCQ-based examination functionality with login authentication, profi
 
 <br/>
 
-## 🏅 GitHub Trophies
+##  GitHub Trophies
 
 <div align="center">
 
@@ -239,17 +239,13 @@ Implemented MCQ-based examination functionality with login authentication, profi
 
 <br/>
 
-## 📈 Contribution Activity
+##  Contribution Activity
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshuwalde&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A78BFA&line=8B5CF6&point=ffffff" width="95%" />
 
 </div>
-
-<br/>
-
-## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -263,7 +259,7 @@ Implemented MCQ-based examination functionality with login authentication, profi
 
 <br/>
 
-## 🎯 Current Focus
+##  Current Focus
 
 ```yaml
 learning:
@@ -280,7 +276,7 @@ open_to:
 
 <br/>
 
-## 📬 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
