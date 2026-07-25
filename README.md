@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Himanshu%20Walde&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&height=50&lines=Computer+Science+%26+Engineering+Student;AI%2FML+Minor+%7C+Full+Stack+Developer;Building+FinGuru+AI+%E2%80%94+RBI+Account+Aggregator+Simulation;Turning+Data+Into+Decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&height=50&lines=Computer+Science+%26+Engineering+Student;AI%2FML+Minor+%7C+Full+Stack+Developer;Turning+Data+Into+Decisions" alt="Typing SVG" />
 </a>
 
 <br/>
