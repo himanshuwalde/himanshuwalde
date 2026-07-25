@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Himanshu%20Walde&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&height=50&lines=Computer+Science+%26+Engineering+Student;AI%2FML+Minor+%7C+Full+Stack+Developer;Turning+Data+Into+Decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&height=50&lines=Computer+Science+%26+Engineering+Student;AI%2FML+Minor+%7C+Full+Stack+Developer;Building+FinGuru+AI+%E2%80%94+RBI+Account+Aggregator+Simulation;Turning+Data+Into+Decisions" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -29,7 +29,7 @@
 
 <br/>
 
-##  About Me
+## 🔮 About Me
 
 ```yaml
 name: "Himanshu Walde"
@@ -49,31 +49,38 @@ open_to:
 
 <br/>
 
-##  Tech Stack
+## ⚙️ Skills & Technologies
 
-**Languages**
+![Java](https://img.shields.io/badge/-JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/-PYTHON-306998?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![MongoDB](https://img.shields.io/badge/-MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/-SUPABASE-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/-GOOGLE%20GEMINI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+
+![Git](https://img.shields.io/badge/-GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GITHUB%20ACTIONS-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/-INTELLIJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Eclipse](https://img.shields.io/badge/-ECLIPSE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+![Linux](https://img.shields.io/badge/-LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+![Pandas](https://img.shields.io/badge/-PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-MATPLOTLIB-11557C?style=for-the-badge&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-SEABORN-65A9A8?style=for-the-badge&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/-STATSMODELS-8B0000?style=for-the-badge&logoColor=white)
+
 <br/>
-![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python) ![C](https://skillicons.dev/icons?i=c) ![SQL](https://img.shields.io/badge/SQL-4C1D95?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Frontend**
-<br/>
-![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css)
-
-**Databases**
-<br/>
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-
-**Developer Tooling**
-<br/>
-![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) ![IntelliJ](https://skillicons.dev/icons?i=idea) ![Eclipse](https://skillicons.dev/icons?i=eclipse) ![Linux](https://skillicons.dev/icons?i=linux) ![GitHub Actions](https://skillicons.dev/icons?i=githubactions)
-
-**Data & ML Libraries**
-<br/>
-![Pandas](https://img.shields.io/badge/Pandas-4C1D95?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-6D28D9?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-7C3AED?style=for-the-badge&logo=plotly&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-5B21B6?style=for-the-badge&logo=python&logoColor=white) ![Statsmodels](https://img.shields.io/badge/Statsmodels-4338CA?style=for-the-badge&logo=python&logoColor=white)
-
-<br/>
-
-##  AI / ML Expertise
+## 🧠 AI / ML Expertise
 
 <div align="center">
 
@@ -89,10 +96,10 @@ open_to:
 
 <br/>
 
-##  Featured Projects
+## 🚀 Featured Projects
 
 <details open>
-<summary><b> FinGuru AI</b> — Jan 2026 – May 2026</summary>
+<summary><b>💰 FinGuru AI</b> — Jan 2026 – May 2026</summary>
 <br/>
 
 AI-driven personal finance management platform simulating the RBI Account Aggregator framework to securely process and analyze large-scale transaction data.
@@ -104,14 +111,14 @@ AI-driven personal finance management platform simulating the RBI Account Aggreg
 | **Performance** | O(1) deterministic hashing to eliminate duplicate transactions during sync |
 | **Security** | Symmetric encryption + 24/7 automated CI/CD security audits & email alerts |
 | **Impact** | Real-time anomaly detection engine flags irregular spends & potential fraud |
-| **Repository** | [FinGuru AI](https://github.com/himanshuwalde/finguru-webapp) |
+| **Repository** | [github.com/himanshuwalde](https://github.com/himanshuwalde) *(link to be updated)* |
 
 Built a real-time statistical anomaly detection engine using localized Z-scores and temporal bounding, integrated multi-modal LLM OCR to parse unstructured bank statements into a standardized schema, and deployed serverless pipelines for continuous data integrity.
 
 </details>
 
 <details>
-<summary><b> Online Examination System</b> — June 2025 – July 2025</summary>
+<summary><b>📝 Online Examination System</b> — June 2025 – July 2025</summary>
 <br/>
 
 Console-based online examination system built with core Java concepts.
@@ -123,7 +130,7 @@ Console-based online examination system built with core Java concepts.
 | **Performance** | Timer-based auto-submission for MCQ assessments |
 | **Security** | User login authentication & profile management |
 | **Impact** | Automated score calculation logic for evaluating user performance |
-| **Repository** | [Online Examination System](https://github.com/himanshuwalde/Online-Examination-System) |
+| **Repository** | [github.com/himanshuwalde](https://github.com/himanshuwalde) *(link to be updated)* |
 
 Implemented MCQ-based examination functionality with login authentication, profile management, and automatic score evaluation using core OOP principles.
 
@@ -131,7 +138,7 @@ Implemented MCQ-based examination functionality with login authentication, profi
 
 <br/>
 
-##  Experience
+## 💼 Experience
 
 <details open>
 <summary><b>Java Development Intern</b> — Oasis Infobyte, Nagpur, Maharashtra</summary>
@@ -165,7 +172,7 @@ Implemented MCQ-based examination functionality with login authentication, profi
 
 <br/>
 
-##  Achievements
+## 🏆 Achievements
 
 <div align="center">
 
@@ -179,9 +186,9 @@ Implemented MCQ-based examination functionality with login authentication, profi
 
 <br/>
 
-##  Certifications
+## 📜 Certifications
 
-**NPTEL** 
+**NPTEL** ([Verify Certificates](https://archive.nptel.ac.in/noc/B2C/candidate_login/main.php))
 
 ![NPTEL](https://img.shields.io/badge/NPTEL-English%20Language%20for%20Competitive%20Exams-6D28D9?style=flat-square&logo=googlescholar&logoColor=white)
 &nbsp;`IIT Madras` · `Elite` · `82%` · Jan–Apr 2025
@@ -194,7 +201,7 @@ Implemented MCQ-based examination functionality with login authentication, profi
 
 <br/>
 
-##  Coding Profiles
+## 💻 Coding Profiles
 
 <div align="center">
 
@@ -209,7 +216,7 @@ Implemented MCQ-based examination functionality with login authentication, profi
 
 <br/>
 
-##  GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -222,7 +229,7 @@ Implemented MCQ-based examination functionality with login authentication, profi
 
 <br/>
 
-##  GitHub Trophies
+## 🏅 GitHub Trophies
 
 <div align="center">
 
@@ -232,7 +239,7 @@ Implemented MCQ-based examination functionality with login authentication, profi
 
 <br/>
 
-##  Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
 
@@ -240,10 +247,23 @@ Implemented MCQ-based examination functionality with login authentication, profi
 
 </div>
 
-<div align="center">
-<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/himanshuwalde/himanshuwalde/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/himanshuwalde/himanshuwalde/output/github-contribution-grid-snake.svg" /> <img src="https://raw.githubusercontent.com/himanshuwalde/himanshuwalde/output/github-contribution-grid-snake.svg" width="95%" /> </picture> </div> <br/>
+<br/>
 
-##  Current Focus
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/himanshuwalde/himanshuwalde/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/himanshuwalde/himanshuwalde/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/himanshuwalde/himanshuwalde/output/github-contribution-grid-snake.svg" width="95%" />
+</picture>
+
+</div>
+
+<br/>
+
+## 🎯 Current Focus
 
 ```yaml
 learning:
@@ -260,13 +280,14 @@ open_to:
 
 <br/>
 
-##  Connect With Me
+## 📬 Connect With Me
 
 <div align="center">
 
 <a href="mailto:waldehimanshu2@gmail.com"><img src="https://img.shields.io/badge/Gmail-waldehimanshu2%40gmail.com-4F46E5?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/himanshu-walde-20b716290/"><img src="https://img.shields.io/badge/LinkedIn-himanshu--walde-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/himanshuwalde"><img src="https://img.shields.io/badge/GitHub-himanshuwalde-5B21B6?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.instagram.com/himanshu__walde/?hl=en"><img src="https://img.shields.io/badge/Instagram-himanshu__walde-C13584?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 </div>
