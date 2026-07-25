@@ -243,7 +243,6 @@ Implemented MCQ-based examination functionality with login authentication, profi
 <div align="center">
 <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/himanshuwalde/himanshuwalde/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/himanshuwalde/himanshuwalde/output/github-contribution-grid-snake.svg" /> <img src="https://raw.githubusercontent.com/himanshuwalde/himanshuwalde/output/github-contribution-grid-snake.svg" width="95%" /> </picture> </div> <br/>
 
-
 ##  Current Focus
 
 ```yaml
