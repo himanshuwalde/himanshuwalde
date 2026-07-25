@@ -240,8 +240,6 @@ Implemented MCQ-based examination functionality with login authentication, profi
 
 </div>
 
-<br/>
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/himanshuwalde/himanshuwalde/output/github-contribution-grid-snake-dark.svg" width="95%" />
