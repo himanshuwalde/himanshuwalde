@@ -123,7 +123,7 @@ Console-based online examination system built with core Java concepts.
 | **Performance** | Timer-based auto-submission for MCQ assessments |
 | **Security** | User login authentication & profile management |
 | **Impact** | Automated score calculation logic for evaluating user performance |
-| **Repository** | [github.com/himanshuwalde](https://github.com/himanshuwalde) *(link to be updated)* |
+| **Repository** | [Online Examination System](https://github.com/himanshuwalde/Online-Examination-System) |
 
 Implemented MCQ-based examination functionality with login authentication, profile management, and automatic score evaluation using core OOP principles.
 
