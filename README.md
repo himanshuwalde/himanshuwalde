@@ -180,7 +180,7 @@ Implemented MCQ-based examination functionality with login authentication, profi
 |---|---|
 | 🧩 LeetCode | Solved 150+ problems |
 | 🧩 GeeksforGeeks | Solved 100+ problems |
-| 🎓 Departmental Academics | Secured a position among the Top 10 students |
+| 🎓 Departmental Academics | Secured 5th position among the Top 15 Students |
 
 </div>
 
@@ -208,7 +208,7 @@ Implemented MCQ-based examination functionality with login authentication, profi
 <a href="https://leetcode.com/u/HimanshuWalde/">
 <img src="https://img.shields.io/badge/LeetCode-HimanshuWalde-4C1D95?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
-<a href="https://www.geeksforgeeks.org/profile/himanshu2tll?tab=overview">
+<a href="https://www.geeksforgeeks.org/profile/himanshu2tll?tab=activity">
 <img src="https://img.shields.io/badge/GeeksforGeeks-Himanshu%20Walde-6D28D9?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 </a>
 
