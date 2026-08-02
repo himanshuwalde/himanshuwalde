@@ -189,22 +189,12 @@ Implemented MCQ-based examination functionality with login authentication, profi
 
 ##  Certifications
 
-**IBM**
-
-[![IBM](https://img.shields.io/badge/IBM-Generative%20AI%20Engineering-0F62FE?style=flat-square&logo=ibm&logoColor=white)](./certificates/IBM_Gen_AI_Engineering.pdf)
-&nbsp;`Professional Certificate` · `Coursera` · `16 Courses` · `Nov 2025`
-
-**NPTEL** 
-
-![NPTEL](https://img.shields.io/badge/NPTEL-English%20Language%20for%20Competitive%20Exams-6D28D9?style=flat-square&logo=googlescholar&logoColor=white)
-&nbsp;`IIT Madras` · `Elite` · `82%` · Jan–Apr 2025
-
-![NPTEL](https://img.shields.io/badge/NPTEL-Technical%20English%20for%20Engineers-7C3AED?style=flat-square&logo=googlescholar&logoColor=white)
-&nbsp;`IIT Madras` · `Elite (Top 5%)` · `85%` · Aug–Oct 2024
-
-![NPTEL](https://img.shields.io/badge/NPTEL-Soft%20Skill%20Development-8B5CF6?style=flat-square&logo=googlescholar&logoColor=white)
-&nbsp;`IIT Kharagpur` · `Elite` · `60%` · Jan–Mar 2024
-
+| Title | Issuer | Certificate |
+|-------------|--------|-------|
+| IBM Generative AI Engineering | IBM (Coursera) | 📄 [View PDF](./certificates/IBM_Gen_AI_Engineering.pdf) |
+| English Language for Competitive Exams | NPTEL | 📄 [View PDF](./certificates/English_language_for_competitve_exams.pdf) |
+| Technical English for Engineers | NPTEL | 📄 [View PDF](./certificates/Technical_English_for_Engineers.pdf) |
+| Soft Skill Development | NPTEL | 📄 [View PDF](./certificates/Soft_Skill_Development.pdf) |
 <br/>
 
 ##  Coding Profiles
