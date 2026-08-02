@@ -191,7 +191,7 @@ Implemented MCQ-based examination functionality with login authentication, profi
 
 **IBM**
 
-[![IBM](https://img.shields.io/badge/IBM-Generative%20AI%20Engineering-0F62FE?style=flat-square&logo=ibm&logoColor=white)](./certificates/IBM Gen AI Engineering.pdf)
+[![IBM](https://img.shields.io/badge/IBM-Generative%20AI%20Engineering-0F62FE?style=flat-square&logo=ibm&logoColor=white)](./certificates/IBM_Generative_AI_Engineering.pdf)
 &nbsp;`Professional Certificate` · `Coursera` · `16 Courses` · `Nov 2025`
 
 **NPTEL** 
