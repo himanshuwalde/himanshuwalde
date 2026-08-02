@@ -189,12 +189,15 @@ Implemented MCQ-based examination functionality with login authentication, profi
 
 ##  Certifications
 
+<div align="center">
+
 | Title | Issuer | Certificate |
 |-------------|--------|-------|
 | IBM Generative AI Engineering | IBM (Coursera) | 📄 [View PDF](./certificates/IBM_Gen_AI_Engineering.pdf) |
 | English Language for Competitive Exams | NPTEL | 📄 [View PDF](./certificates/English_language_for_competitive_exams.pdf) |
 | Technical English for Engineers | NPTEL | 📄 [View PDF](./certificates/Technical_English_for_Engineers.pdf) |
 | Soft Skill Development | NPTEL | 📄 [View PDF](./certificates/Soft_Skill_Development.pdf) |
+</div>
 <br/>
 
 ##  Coding Profiles
