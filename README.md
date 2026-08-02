@@ -194,8 +194,6 @@ Implemented MCQ-based examination functionality with login authentication, profi
 ![IBM](https://img.shields.io/badge/IBM-Generative%20AI%20Engineering-0F62FE?style=flat-square&logo=ibm&logoColor=white)
 &nbsp;`Professional Certificate` · `Coursera` · `16 Courses` · `Nov 2025`
 
-> Covered Generative AI, Prompt Engineering, PyTorch, Hugging Face Transformers, NLP, RAG, LangChain, Fine-tuning LLMs, and AI Application Development.
-
 **NPTEL** 
 
 ![NPTEL](https://img.shields.io/badge/NPTEL-English%20Language%20for%20Competitive%20Exams-6D28D9?style=flat-square&logo=googlescholar&logoColor=white)
