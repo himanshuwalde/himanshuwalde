@@ -179,7 +179,7 @@ Implemented MCQ-based examination functionality with login authentication, profi
 | Recognition | Details |
 |---|---|
 | 📚 GATE | Qualified GATE CSE |
-| 🧩 LeetCode | Solved 150+ problems |
+| 🧩 LeetCode | Solved 200+ problems |
 | 🧩 GeeksforGeeks | Solved 100+ problems |
 | 🏅 Departmental Academics | Secured 5th position among the Top 15 Students |
 
